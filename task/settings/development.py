@@ -2,7 +2,7 @@ from .base import *
 
 
 # Debug Config
-DEBUG =  config("DEBUG", default=True, cast=bool)
+DEBUG =  True
 
 
 
