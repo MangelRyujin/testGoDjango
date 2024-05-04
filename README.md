@@ -115,4 +115,7 @@ Destroying test database for alias 'default'...
 python manage.py runserver
 ```
 
+## To dockerize the project visit the following link and apply it to your current project
 
+
+https://dev.to/adgaray/dockerizar-un-proyecto-django-2np3
